@@ -1,0 +1,8 @@
+out/
+*.class
+*.log
+.DS_Store
+oracleJdk-27.jdk/
+target/
+.idea/
+.vscode/
